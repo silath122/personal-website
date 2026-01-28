@@ -1,0 +1,77 @@
+{
+  "first_name" : "Messiah",
+  "last_name" : "Thomas",
+  "nickname" : "Siah",
+  "age" : 24,
+  "email" : "siahlthomas@gmail.com",
+  "address" : {
+    "city" : "Charleston",
+    "state" : "SC"
+  },
+  "linkedin" : "https://www.linkedin.com/in/siahthomas12454/",
+  "github" : "https://github.com/silath122/",
+  "colleges": [
+    {
+      "name": "College of Charleston",
+      "degree": "Bachelor of Art in Computer Science",
+      "graduation_year": 2024
+    }
+  ],
+  "certifications": [
+    {
+      "name": "CompTIA Security+ ce Certification",
+      "issuer": "CompTIA",
+      "year": 2025,
+      "website": "https://www.credly.com/badges/6b2be60f-b6cd-49d4-a7d2-5dcac6628d6b"
+    }
+  ],
+  "tech_skills": {
+    "Python": "Advanced",
+    "Java": "Intermediate",
+    "C++": "Intermediate",
+    "JavaScript": "Intermediate",
+    "SQL": "Intermediate",
+    "HTML/CSS": "Intermediate",
+    "Git": "Intermediate",
+    "Linux": "Intermediate",
+    "Data Analysis": "Intermediate",
+    "Machine Learning": "Beginner",
+    "Cybersecurity": "Beginner",
+    "Cloud Computing": "Beginner",
+    "Docker": "Beginner",
+    "AWS": "Beginner",
+    "React": "Beginner"
+  },
+  "soft_skills": [
+    "Problem-solving",
+    "Communication",
+    "Teamwork",
+    "Adaptability",
+    "Time management",
+    "Critical thinking",
+    "Leadership",
+    "Creativity"
+  ],
+  "experience": [
+    {
+      "job_title": "Data Analyst Intern",
+      "company": "Bear Cognition",
+      "duration": "N/A",
+      "responsibilities": [
+        "Responsibility 1",
+        "Responsibility 2",
+        "Responsibility 3"
+      ]
+    },
+    {
+      "job_title": "Software Developer",
+      "company": "Naval Information Warefare Center",
+      "duration": "N/A",
+      "responsibilities": [
+        "Responsibility 1",
+        "Responsibility 2",
+        "Responsibility 3"
+      ]
+    }
+  ]
+}
